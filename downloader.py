@@ -1,6 +1,6 @@
 import urllib.request , sys ,os
 if os.name == 'nt':
-  os.system('color')
+  os.system('color') #windows only
 tm_size = os.get_terminal_size()
 progress = ['|','/','-','\\','|','/','-','\\']
 progress_counts = 0
