@@ -12,6 +12,6 @@ pythonモジュールを使用したダウンロードのためwgetより多く�
 
 #  使い方
 
-python downloader.py <url> <file name(path)>
+python downloader.py < url > < file name(path) > 
 
-./downloader.py <url> <file name(path)>
+./downloader.py < url > < file name(path) >
